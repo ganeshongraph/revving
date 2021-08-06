@@ -1,0 +1,141 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Italic
+FamilyName:Adobe Caslon Pro
+StyleName:Italic
+MenuName:Adobe Caslon Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Adobe Caslon Pro Italic
+WritingScript:Roman
+OutlineFileName:/Users/shahealam/Desktop/shahe/project/office-project/revving/Revving_Dashboard Open Files/Document fonts/ACaslonPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168512
+FileModTime:466968325
+DesignSize:120
+NameArray:0,Mac,4,Adobe Caslon Pro Italic
+NameArray:0,Win,1,Adobe Caslon Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Regular
+FamilyName:Adobe Caslon Pro
+StyleName:Regular
+MenuName:Adobe Caslon Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Caslon Pro
+WritingScript:Roman
+OutlineFileName:/Users/shahealam/Desktop/shahe/project/office-project/revving/Revving_Dashboard Open Files/Document fonts/ACaslonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:167176
+FileModTime:466968325
+DesignSize:120
+NameArray:0,Mac,4,Adobe Caslon Pro
+NameArray:0,Win,1,Adobe Caslon Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/shahealam/Desktop/shahe/project/office-project/revving/Revving_Dashboard Open Files/Document fonts/AdobeFnt22.lst
+FileLength:3523
+FileModTime:641378292
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Averta-Semibold
+FamilyName:Averta
+StyleName:Semibold
+MenuName:Averta Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Averta Semibold
+WritingScript:Roman
+OutlineFileName:/Users/shahealam/Desktop/shahe/project/office-project/revving/Revving_Dashboard Open Files/Document fonts/Averta-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:138956
+FileModTime:498063062
+NameArray:0,Mac,4,Averta Semibold
+NameArray:1,Mac,18,Averta Semibold
+NameArray:0,Win,1,Averta Semibold
+NameArray:0,Win,16,Averta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvertaDemo-Regular
+FamilyName:Averta Demo
+StyleName:Regular
+MenuName:Averta Demo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Averta Demo
+WritingScript:Roman
+OutlineFileName:/Users/shahealam/Desktop/shahe/project/office-project/revving/Revving_Dashboard Open Files/Document fonts/AvertaDemo-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96916
+FileModTime:458234749
+NameArray:0,Mac,4,Averta Demo
+NameArray:0,Win,1,Averta Demo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/shahealam/Desktop/shahe/project/office-project/revving/Revving_Dashboard Open Files/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:466968327
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
