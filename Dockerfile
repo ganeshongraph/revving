@@ -5,9 +5,10 @@ RUN apk add yarn
 WORKDIR /app
 COPY package.json /app
 #RUN npm install
-
+COPY yarn.lock .
 RUN yarn install
 COPY . .
+#COPY yarn.lock .
 RUN yarn build
 
 COPY . /app
